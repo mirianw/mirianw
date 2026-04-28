@@ -1,4 +1,4 @@
-## Bem vindo! Eu sou a Mirian 🙃
+## Bem vindo!🙃
 
 <div> 
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mirianw&show_icons=true&theme=transparent">
