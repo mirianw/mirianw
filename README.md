@@ -10,9 +10,6 @@ Tenho paixão por transformar dados em decisões — seja com uma análise explo
 
 Atualmente aprofundando conhecimentos em Python para dados e Machine Learning
 
-📍 Ouro Preto, MG — Brasil
-
-💡 Acredito que estatística é a base de tudo em dados
 
 
 
