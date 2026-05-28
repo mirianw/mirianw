@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Mirian! 👋</h1>
+<h1 align="center">Olá, eu sou a Mirian! </h1>
 <p align="center">
   📊 Analista de Dados &nbsp;|&nbsp; 🎓 Estatística — UFOP &nbsp;|&nbsp; 🔬 Rumo à Ciência de Dados
 </p>
