@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Mirian! </h1>
 <p align="center">
-  📊 Analista de Dados &nbsp;|&nbsp; 🎓 Estatística — UFOP &nbsp;
+  Analista de Dados &nbsp;|&nbsp; Estatística — UFOP &nbsp;
 </p>
 
 Sobre mim:
@@ -13,7 +13,7 @@ Atualmente aprofundando conhecimentos em Python para dados e Machine Learning
 
 
 
-🛠️ Tecnologias & Ferramentas
+Tecnologias & Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=r,python,mysql" height="40" alt="R, Python, SQL"/>
   &nbsp;
@@ -23,7 +23,7 @@ Atualmente aprofundando conhecimentos em Python para dados e Machine Learning
 
 
 
-📫 Onde me encontrar
+Onde me encontrar
 <p align="left">
   <a href="https://linkedin.com/in/mirianestatistica">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
