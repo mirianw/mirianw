@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Mirian! </h1>
 <p align="center">
-  📊 Analista de Dados &nbsp;|&nbsp; 🎓 Estatística — UFOP &nbsp;|&nbsp; 🔬 Rumo à Ciência de Dados
+  📊 Analista de Dados &nbsp;|&nbsp; 🎓 Estatística — UFOP &nbsp;
 </p>
 
 Sobre mim:
